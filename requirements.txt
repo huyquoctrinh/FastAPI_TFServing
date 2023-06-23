@@ -1,0 +1,7 @@
+tensorflow==2.14.0
+fastapi
+uvicorn
+numpy
+Pillow
+opencv-python
+joblib
